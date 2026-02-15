@@ -2,7 +2,7 @@
 # Replace the entire string below with your actual OpenRouter API key
 # Do not add quotes around your key if it's already in the string
 
-openrouter_api_key = "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"
+openrouter_api_key = "enter your api here"
 
 # Quick check
 if "your_openrouter_api_key_here" in openrouter_api_key or len(openrouter_api_key) < 30:
